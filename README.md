@@ -47,15 +47,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![Garvit Chaurasiya :: Streak](http://github-readme-streak-stats.herokuapp.com?user=
-  
-  
-  
-  
-  
-  
-  
-  
-  &theme=merko&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=garvitchaurasiya&theme=merko&date_format=M%20j%5B%2C%20Y%5D)
+[![Garvit Chaurasiya :: Streak](http://github-readme-streak-stats.herokuapp.com?user=garvitchaurasiya&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=garvitchaurasiya&theme=merko&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
